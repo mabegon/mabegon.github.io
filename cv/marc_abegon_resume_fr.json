@@ -1,0 +1,116 @@
+{
+  "basics": {
+    "name": "Marc Abegon",
+    "label": "Développeur et manager expérimenté",
+    "picture": "",
+    "email": "marc@abegon.dev",
+    "phone": "+33 630 25 62 95",
+    "website": "http://mabegon.github.io",
+    "summary": "Développeur et manager expérimenté. 
+                Passionné par l'agilité et l’amélioration continue. 
+                A la recherche du challenge et en apprentissage perpétuel. 
+                La zone de confort m'est inconfortable. 
+                Père d'une famille de 3 enfants. Marathonien.",
+    "location": {
+      "address": "14 rue Aristide Briand",
+      "postalCode": "92130",
+      "city": "Issy les Moulineaux",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "mabegon",
+      "url": "http://twitter.com/mabegon"
+    },{
+      "network": "LinkedIn",
+      "url": "www.linkedin.com/in/marc-abegon"
+    }]
+  },
+  "work": [{
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "language": "Français",
+    "fluency": "C1 - Courant"
+  },{
+    "language": "Espagnol",
+    "fluency": "C2 - Langue Maternelle"
+  },{
+    "language": "Anglais",
+    "fluency": "B2 - Moyen"
+  },{
+    "language": "Catalan",
+    "fluency": "C2 - Langue Maternelle"
+  }
+  ],
+  "interests": [{
+    "name": "Astronomie",
+    "keywords": [
+      "",
+      ""
+    ]
+  },{
+    "name": "Course à pied",
+    "keywords": [
+      "Marathon",
+      "Trail"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
