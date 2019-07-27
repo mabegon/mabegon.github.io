@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sous le soleil exactement...</title>
+    <link>http://mabegon.github.io/posts/</link>
+    <description>Recent content in Posts on Sous le soleil exactement...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 27 Jul 2019 18:24:45 +0200</lastBuildDate>
+    
+	<atom:link href="http://mabegon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Et encore mon premier post</title>
+      <link>http://mabegon.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 27 Jul 2019 18:24:45 +0200</pubDate>
+      
+      <guid>http://mabegon.github.io/posts/my-first-post/</guid>
+      <description>Pour la quatrième fois ? Où la cinquième ? La vérité est que j&amp;rsquo;ai perdu mon compte. D&amp;rsquo;une chose j&amp;rsquo;en suis sûr, cela fait pas mal d&amp;rsquo;années depuis la dernière fois, et dans tous les cas, c&amp;rsquo;est la première fois en français. Est-ce qu&amp;rsquo;il faut que je me présente ? Ben oui, car personne me connais&amp;hellip; au moins en ce format.
+Par où commencer ? Comme je ne veux pas trop vous ennuyer et que de toute façon, ce blog sera surtout un outil de partage de ce que j&amp;rsquo;apprends et j&amp;rsquo;ai envie de transmettre, d&amp;rsquo;un point de vue personnel mais pas trop, je commencerai par dévoiler ce que vous pouvez déjà connaître à partir d&amp;rsquo;autres réseaux et on complètera petit à petit au moment arrivé.</description>
+    </item>
+    
+  </channel>
+</rss>
